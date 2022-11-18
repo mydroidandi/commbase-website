@@ -2,6 +2,6 @@
 export default {
   themeConfig: {
     logo: "/logo.svg",
-    siteTltle: "Adocs",
+    siteTitle: "Adocs",
   },
 };
