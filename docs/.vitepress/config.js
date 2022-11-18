@@ -1,4 +1,3 @@
-// .vitepress/config.js
 export default {
   themeConfig: {
     logo: "/commbase.png",
