@@ -7,7 +7,7 @@ export default {
     { text: "About", link: "/about" },
     { text: "Contact", link: "/contact" },
     { text: "Guide", link: "/guide" },
-    { text: "Configs", link: "/configs" },
+    { text: "Install", link: "/configs" },
     { text: "Changelog", link: "https://github.com/mydroidandi/commbase" },
     ],
   },
