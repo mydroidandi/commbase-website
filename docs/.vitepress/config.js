@@ -5,7 +5,7 @@ export default {
     nav: [
       { text: "About", link: "/about" },
       { text: "Contact", link: "/contact" },
-      { text: "Guide", link: "/guide" },
+      { text: "Guide", link: "/" },
       { text: "Install", link: "/configs" },
       { text: "Changelog",
           items: [
