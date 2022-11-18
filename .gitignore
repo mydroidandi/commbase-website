@@ -27,8 +27,8 @@ commbase-website.code-workspace
 .prettierrc
 
 # Ignore Node specific files
-package.json
-package-lock.json
+#package.json
+#package-lock.json
 
 # The ESLint config files
 .eslintrc.json

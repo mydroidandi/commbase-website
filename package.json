@@ -1,0 +1,29 @@
+{
+  "name": "commbase-website",
+  "version": "1.0.0",
+  "description": "The official Commbase documentation online",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docds",
+    "docs:serve": "vitepress serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mydroidandi/commbase-website.git"
+  },
+  "keywords": [
+    "commbase"
+  ],
+  "author": "Esteban Herrera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mydroidandi/commbase-website/issues"
+  },
+  "homepage": "https://github.com/mydroidandi/commbase-website#readme",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.29",
+    "vue": "^3.2.45"
+  }
+}
