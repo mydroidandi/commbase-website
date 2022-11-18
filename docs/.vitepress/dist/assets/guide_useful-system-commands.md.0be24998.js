@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as t}from"./app.ed6f2db5.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/useful-system-commands.md"}'),a={name:"guide/useful-system-commands.md"};function o(n,r,c,m,d,u){return t(),s("div")}const _=e(a,[["render",o]]);export{p as __pageData,_ as default};
