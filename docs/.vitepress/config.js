@@ -9,9 +9,9 @@ export default {
       { text: "Install", link: "/install" },
       { text: "Changelog",
           items: [
-            { text: "v0.0.1", link: "/item-1" },
-            { text: "v0.0.2", link: "/item-2" },
-            { text: "v0.0.3", link: "/item-3" },
+            { text: "v0.0.1", link: "/v0-0-1" },
+            { text: "v0.0.2", link: "/v0-0-2" },
+            { text: "v0.0.3", link: "/v0-0-3" },
           ],
       },
     ],
@@ -22,27 +22,25 @@ export default {
     ],
     sidebar: [
       {
-        text: "Section A",
+        text: "1 Introduction",
         collapsible: true,
         items: [
-          { text: "Introduction", link: "/introduction" },
-          { text: "Getting Started", link: "/getting-started" },
+          { text: "Introduction", link: "/guide/introduction" },
         ],
       },
       {
-        text: "Section B",
+        text: "2 Start, Stop, and Teleport Commbase Application",
         collapsible: false,
         items: [
-          { text: "Introduction", link: "/introduction" },
-          { text: "Getting Started", link: "/getting-started" },
+          { text: "Commbase Start", link: "/guide/commbase-start" },
+          { text: "Commbase Stop", link: "/guide/commbase-stop" },
         ],
       },
       {
-        text: "Section C",
+        text: "3 Useful System Commands",
         collapsible: true,
         items: [
-          { text: "Introduction", link: "/introduction" },
-          { text: "Getting Started", link: "/getting-started" },
+          { text: "Useful System Commands", link: "/guide/useful-system-commands" },
         ],
       },
     ],
