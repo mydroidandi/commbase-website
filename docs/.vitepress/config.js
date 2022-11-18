@@ -6,7 +6,7 @@ export default {
       { text: "About", link: "/about" },
       { text: "Contact", link: "/contact" },
       { text: "Guide", link: "/" },
-      { text: "Install", link: "/configs" },
+      { text: "Install", link: "/install" },
       { text: "Changelog",
           items: [
             { text: "v0.0.1", link: "/item-1" },
