@@ -8,7 +8,7 @@ export default {
     { text: "Contact", link: "/contact" },
     { text: "Guide", link: "/guide" },
     { text: "Configs", link: "/configs" },
-    { text: "Changelog", link: "https://github.com/..." },
+    { text: "Changelog", link: "https://github.com/mydroidandi/commbase" },
     ],
   },
 };
