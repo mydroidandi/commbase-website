@@ -17,8 +17,34 @@ export default {
     ],
     socialLinks: [
       { icon: "github", link: "https://github.com/mydroidandi/commbase" },
-      { icon: "twitter", link: "#" },
-      { icon: "discord", link: "#" },
+      { icon: "twitter", link: "/" },
+      { icon: "discord", link: "/" },
+    ],
+    sidebar: [
+      {
+        text: "Section A",
+        collapsible: true,
+        items: [
+          { text: "Introduction", link: "/introduction" },
+          { text: "Getting Started", link: "/getting-started" },
+        ],
+      },
+      {
+        text: "Section B",
+        collapsible: false,
+        items: [
+          { text: "Introduction", link: "/introduction" },
+          { text: "Getting Started", link: "/getting-started" },
+        ],
+      },
+      {
+        text: "Section C",
+        collapsible: true,
+        items: [
+          { text: "Introduction", link: "/introduction" },
+          { text: "Getting Started", link: "/getting-started" },
+        ],
+      },
     ],
   },
 };
