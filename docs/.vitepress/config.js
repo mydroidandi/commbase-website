@@ -15,6 +15,11 @@ export default {
           ],
       },
     ],
+    socialLinks: [
+      { icon: "github", link: "https://github.com/Evavic44/adocs" },
+      { icon: "twitter", link: "https://twitter.com/victorekea" },
+      { icon: "discord", link: "..." },
+    ],
   },
 };
 
