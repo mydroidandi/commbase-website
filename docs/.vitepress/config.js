@@ -2,7 +2,7 @@
 export default {
   themeConfig: {
     logo: "/commbase.png",
-    siteTitle: "Adocs",
+    siteTitle: "Commbase",
     nav: [
     { text: "About", link: "/about" },
     { text: "Contact", link: "/contact" },
