@@ -1,2 +1,2 @@
-# commbase-website
-Commbase website
+# Commbase Website
+The official Commbase documentation online 
