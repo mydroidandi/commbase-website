@@ -1,4 +1,7 @@
 export default {
+  lang: 'en-US',
+  title: 'Commbase',
+  description: 'Commbase - Conversational AI Assistant and AI Hub for Computers and Droids.',
   themeConfig: {
     logo: "/commbase.png",
     siteTitle: "Commbase",
