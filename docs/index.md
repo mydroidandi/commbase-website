@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: Commbase
-  text: Conversational AI Assistant and AI Hub
+  text: Conversational AI assistant and distributed AI.
   image:
     src: /commbase.png
     alt: Commbase logo
